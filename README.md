@@ -11,13 +11,13 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/linux-tweaks.git
+   git clone https://github.com/rafabduloff/useful-kali-tweaks
    ```
 
 2. **Перейдите в папку с нужным скриптом:**
 
    ```bash
-   cd linux-tweaks/python-installation
+   cd useful-kali-tweaks/python-installation
    ```
 
 3. **Следуйте инструкциям в соответствующем файле `instructions.md`.**
@@ -25,7 +25,3 @@
 ## Вклад
 
 Если у вас есть идеи или предложения по улучшению, пожалуйста, создайте issue или отправьте pull request!
-
-## Лицензия
-
-Этот проект лицензирован под MIT License. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
