@@ -1,2 +1,31 @@
-# useful-kali-tweaks
-This is tweaks i created and used for fast configuration and setup of kali linux. You Freely can make forks or pell requests
+# Kali Tweaks
+
+Добро пожаловать в репозиторий Linux Tweaks! Здесь собраны полезные скрипты и советы по настройке и оптимизации различных дистрибутивов Linux, включая Kali Linux. Эти твики помогут вам улучшить производительность, безопасность и удобство работы с вашей системой.
+
+## Содержимое
+
+- **[Установка Python 3.11](python-installation/instructions.md)**: Скрипт для установки Python 3.11 и замены текущей версии Python 3 на вашу систему.
+
+## Использование
+
+1. **Клонируйте репозиторий:**
+
+   ```bash
+   git clone https://github.com/yourusername/linux-tweaks.git
+   ```
+
+2. **Перейдите в папку с нужным скриптом:**
+
+   ```bash
+   cd linux-tweaks/python-installation
+   ```
+
+3. **Следуйте инструкциям в соответствующем файле `instructions.md`.**
+
+## Вклад
+
+Если у вас есть идеи или предложения по улучшению, пожалуйста, создайте issue или отправьте pull request!
+
+## Лицензия
+
+Этот проект лицензирован под MIT License. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
