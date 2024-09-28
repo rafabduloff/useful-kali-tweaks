@@ -1,4 +1,4 @@
-# Kali Linux Tweaks
+# Linux Tweaks
 
 Добро пожаловать в репозиторий Linux Tweaks! Здесь собраны полезные скрипты и советы по настройке и оптимизации различных дистрибутивов Linux, включая Kali Linux. Эти твики помогут вам улучшить производительность, безопасность и удобство работы с вашей системой.
 
@@ -11,16 +11,22 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/rafabduloff/useful-kali-tweaks
+   git clone https://github.com/yourusername/linux-tweaks.git
    ```
 
 2. **Перейдите в папку с нужным скриптом:**
 
    ```bash
-   cd useful-kali-tweaks/python-installation
+   cd linux-tweaks/python-installation
    ```
 
-3. **Следуйте инструкциям в соответствующем файле `instructions.md`.**
+3. **Сделайте все `.sh` скрипты исполняемыми:**
+
+   ```bash
+   chmod +x *.sh
+   ```
+
+4. **Следуйте инструкциям в соответствующем файле `instructions.md`.**
 
 ## Вклад
 
