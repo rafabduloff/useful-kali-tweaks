@@ -11,19 +11,19 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/linux-tweaks.git
+   git clone https://github.com/rafabduloff/useful-kali-tweaks.git
    ```
 
-2. **Перейдите в папку с нужным скриптом:**
-
-   ```bash
-   cd linux-tweaks/python-installation
-   ```
-
-3. **Сделайте все `.sh` скрипты исполняемыми:**
+2. **Сделайте все `.sh` скрипты исполняемыми:**
 
    ```bash
    chmod +x *.sh
+   ```
+
+3. **Перейдите в папку с нужным скриптом:**
+
+   ```bash
+   cd useful-kali-tweaks/needed-folder
    ```
 
 4. **Следуйте инструкциям в соответствующем файле `instructions.md`.**
